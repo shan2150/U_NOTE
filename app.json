@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Jiaxhun",
+    "name": "unote",
     "slug": "U-Note",
     "privacy": "public",
     "sdkVersion": "35.0.0",
@@ -25,6 +25,9 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
-  }
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "unote",
+  "name": "unote"
 }
