@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="20dp"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:text="U-note is a group project \n made by:\nYuejia Fang\nDekai Meng\nHongshan Shang\nZhiyong Wang\nJiachun Xiang\n
+"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/textView" />
+
+</RelativeLayout>C:\Users\shang\AndroidStudioProjects\MyApplication\app\src\main\res\layout\activity_about.xml
